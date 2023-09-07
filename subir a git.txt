@@ -1,0 +1,6 @@
+en carpeta del projecto 
+git init
+git add .
+git commit -m 'Nombre del projecto'
+git remote add origin https://github.com/PedroJoseVerdugo/laravel_third.git
+git push -u -f origin master
